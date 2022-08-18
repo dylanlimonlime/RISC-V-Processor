@@ -1,0 +1,8 @@
+*.bak
+mp4_nativelink_simulation.rpt
+db/
+incremental_db/
+output_files/
+simulation/
+mp4.qws
+rv_load_memory.sh
